@@ -2,3 +2,4 @@ ObjectiveSummary
 InstallationGuide
 PrioritizationCriteria
 SampleCode
+ConfigOptions
