@@ -3,3 +3,4 @@ InstallationGuide
 PrioritizationCriteria
 SampleCode
 ConfigOptions
+CommunityGuidelines
