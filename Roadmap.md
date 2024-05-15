@@ -4,3 +4,4 @@ FeatureOverview
 DependencyRequirements
 WorkflowSteps
 ContributionRules
+ErrorResolution
