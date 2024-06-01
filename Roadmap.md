@@ -5,3 +5,4 @@ DependencyRequirements
 WorkflowSteps
 ContributionRules
 ErrorResolution
+LegalSummary

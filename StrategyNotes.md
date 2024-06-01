@@ -4,3 +4,4 @@ PrioritizationCriteria
 SampleCode
 ConfigOptions
 CommunityGuidelines
+LicenseInfo
