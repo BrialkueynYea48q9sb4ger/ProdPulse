@@ -6,3 +6,4 @@ WorkflowSteps
 ContributionRules
 ErrorResolution
 LegalSummary
+VersionLog

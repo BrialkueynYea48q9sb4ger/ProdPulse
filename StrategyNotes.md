@@ -6,3 +6,4 @@ ConfigOptions
 CommunityGuidelines
 LicenseInfo
 ProductQuestions
+ReleaseNotes
