@@ -7,3 +7,4 @@ ContributionRules
 ErrorResolution
 LegalSummary
 VersionLog
+TestingSteps
