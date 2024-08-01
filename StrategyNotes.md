@@ -7,3 +7,4 @@ CommunityGuidelines
 LicenseInfo
 ProductQuestions
 ReleaseNotes
+PerformanceMetrics

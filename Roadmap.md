@@ -8,3 +8,4 @@ ErrorResolution
 LegalSummary
 VersionLog
 TestingSteps
+KPISummary
