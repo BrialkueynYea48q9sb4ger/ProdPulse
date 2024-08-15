@@ -8,3 +8,4 @@ LicenseInfo
 ProductQuestions
 ReleaseNotes
 PerformanceMetrics
+CommunityLinks
